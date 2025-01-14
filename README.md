@@ -2,7 +2,7 @@
 <h3 align="center">A Junior at UC Berkeley studying Statistics</h3>
 
 ## 💫 About Me:
-⚒️ I’m currently working on: Developing an application to evaluate and compare outputs of multiple LLMs.<br><br>🔎 I’m currently learning: Deep learning methods and computer vision.<br><br>⚡ Fun fact: I love cooking, watching K-Dramas, and discovering new music!
+⚒️ I’m currently working on: Developing an application to evaluate and compare outputs of multiple LLMs.<br><br>🔎 I’m currently learning: Deep learning methods and computer vision.<br><br>⚡ Fun fact: I love cooking, watching tv shows, and discovering new music!
 
 
 ## 🌐 Connect with me:
