@@ -1,10 +1,49 @@
-<h1 align="center">Hi 👋, I'm Anupriya</h1>
-<h3 align="center">UC Berkeley Student</h3>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupriyaislam) 
+<p align="center">
+  <img src="./assets/galaxy.svg" width="100%" alt="hello! i'm anupriya — bringing ideas to life" />
+</p>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### ✦ about me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a statistics student at UC Berkeley interested in software engineering, AI/ML, and full-stack development. I enjoy building intuitive products and bringing meaningful ideas to life through technology.
+
+### ✦ main skills
+
+[![My skills](https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,r,html,css,react,nextjs,nodejs,tailwind,fastapi,flask,pytorch,tensorflow,postgres,mysql,firebase,docker,git,gitlab,figma&perline=12&theme=dark)](https://skillicons.dev)
+
+<sub>Also working with NumPy, pandas, scikit-learn, and SQL.</sub>
+
+### ✦ github snapshot
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupriyai&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupriyai&theme=tokyonight" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com?user=anupriyai&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupriyai&bg_color=1a1b27&color=c0a9f3&line=bb9af7&point=f5c2e7&area=true&hide_border=true" alt="Activity graph" />
+    </td>
+  </tr>
+</table>
+
+### ✦ contribution galaxy
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupriyai/anupriyai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupriyai/anupriyai/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/anupriyai/anupriyai/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+</picture>
+
+### ✦ connect with me
+
+<a href="https://www.linkedin.com/in/anupriyaislam/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn" />
+</a>
