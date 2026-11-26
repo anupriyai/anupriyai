@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">hello! i'm anupriya</title>
+  <desc id="desc">Animated retro galaxy with pixel stars, a floating ringed planet, and the tagline bringing ideas to life.</desc>
+  <defs>
+    <linearGradient id="space"><stop stop-color="#0c0916"/><stop offset="1" stop-color="#281c46"/></linearGradient>
+    <linearGradient id="ink"><stop stop-color="#f5c2e7"/><stop offset=".35" stop-color="#fff0e2"/><stop offset=".72" stop-color="#c3a6ff"/><stop offset="1" stop-color="#a7b8f8"/></linearGradient>
+    <pattern id="stars" width="173" height="89" patternUnits="userSpaceOnUse" patternTransform="rotate(-9)">
+      <g fill="#c5b2ec" opacity=".35"><path d="M12 10h2v2h-2zM76 65h2v2h-2zM149 32h2v2h-2zM43 37h1v1h-1zM110 13h1v1h-1zM162 79h1v1h-1z"/></g>
+    </pattern>
+    <path id="star" d="M-2-7H2V-2H7V2H2V7H-2V2H-7V-2H-2Z"/>
+    <clipPath id="frame"><rect width="960" height="260" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="260" fill="url(#space)"/>
+    <rect width="960" height="260" fill="url(#stars)"/>
+    <g fill="#d9c5ff">
+      <g opacity=".7"><use xlink:href="#star" x="35" y="25"/><use xlink:href="#star" x="596" y="44"/><use xlink:href="#star" x="909" y="184"/><animate attributeName="opacity" values=".15;.85;.15" dur="4s" repeatCount="indefinite"/></g>
+      <g opacity=".6"><use xlink:href="#star" x="414" y="30"/><use xlink:href="#star" x="681" y="182"/><use xlink:href="#star" x="911" y="32"/><animate attributeName="opacity" values=".8;.18;.8" dur="5s" repeatCount="indefinite"/></g>
+    </g>
+    <g font-family="monospace" font-size="11" fill="#b8a2e4" opacity=".29">
+      <text x="650" y="42">0 1</text><text x="893" y="86">1 0</text><text x="655" y="154">1</text><text x="893" y="216">0 1</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(781 63)">
+      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6s" repeatCount="indefinite"/>
+        <g transform="scale(4.6)" shape-rendering="crispEdges">
+          <path d="M7 0h9v2h4v3h3v4h2v9h-2v4h-3v3h-4v2H7v-2H3v-3H0V7h3V3h4z" fill="#8f75c5"/>
+          <path d="M7 2h9v2h4v3h3v9h-3v4h-4v3H7v-3H3v-5H1V8h3V5h3z" fill="#c2a9ec"/>
+          <path d="M5 8h5v3H5zM13 5h4v3h-4zM15 14h5v4h-5zM7 17h4v3H7z" fill="#a185da"/>
+          <path d="M6 3h9v2H6zM3 6h2v6H3z" fill="#ecd9ff"/>
+          <path d="M-6 19h8v-2h7v-2h9v-2h10v-2h4v3h-3v3h-8v2h-8v2H4v2H-6z" fill="#f5c2e7" opacity=".9"/>
+        </g>
+      </g>
+    </g>
+    <g font-family="ui-monospace, Menlo, Consolas, monospace">
+      <text x="44" y="67" fill="#b5a2dc" font-size="14" letter-spacing="3">SWE · AI/ML · FULL-STACK</text>
+      <text x="41" y="135" fill="url(#ink)" font-size="43" font-weight="700">hello! i'm anupriya</text>
+      <text x="45" y="177" fill="#e0d1f4" font-size="20">bringing ideas to life<tspan fill="#f5c2e7">_ <animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.4s" repeatCount="indefinite"/></tspan></text>
+    </g>
+    <path d="M-100 242H0v-5h60v-5h60v-5h60v5h60v5h60v5h60v5h60v5h60v-5h60v-5h60v-5h60v-5h60v5h60v5h60v5h60v5h60v-5h60V280H-100Z" fill="#533b7c" opacity=".65">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-40 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
