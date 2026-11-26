@@ -34,7 +34,7 @@ I'm a statistics student at UC Berkeley interested in software engineering, AI/M
   </tr>
 </table>
 
-### ✦ contribution galaxy
+### ✦ contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupriyai/anupriyai/output/github-snake-dark.svg" />
